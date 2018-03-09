@@ -1,5 +1,5 @@
 # Climate House
-A portable house that can survive hurricanes, earthquakes, fires, and floods.
+A portable house that can survive hurricanes, earthquakes, fires, and floods. This is an open source project to collaborrate on design ideas, sketches, parts suppliers, etc.
 
 ## Minimum Viable Product
 
@@ -22,6 +22,12 @@ Indoor shower.
 Gray water system which maybe used for gardening and fire suppression.
 
 Vertical garden ready.
+
+## Related commercial products
+
+https://www.honomobo.com/mstudio/
+
+https://www.tenfoldengineering.com/
 
 ## Related Projects
 
